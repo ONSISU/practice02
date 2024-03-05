@@ -101,7 +101,7 @@ class _SettingState extends State<Setting> {
               ),
               Container(
                 padding: EdgeInsets.only(top: 20, left: 30),
-                child: Text('버전 v1.0', style: TextStyle(fontSize: 17,color: Color.fromRGBO(136, 135, 135, 0.34),fontFamily: 'HiMelody',), ) ,
+                child: Text('버전 v1.0', style: TextStyle(fontSize: 17,color: Color.fromRGBO(136, 135, 135, 0.34),fontFamily: 'Sunflower',), ) ,
                 alignment: Alignment.centerLeft,
               )
             ],
